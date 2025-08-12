@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <h1 align="center">
-  Hey there 👋, I'm <a href="https://github.com/friedrichrian">Friedrich Rian</a>  
+  Hey there 👋, I'm <a href="https://github.com/friedrichrian">Muhammad Fikriansyah</a>  
 </h1>
 <p align="center">
   💻 Full-Stack Developer | 🚀 Tech Explorer | 🎯 Problem Solver
